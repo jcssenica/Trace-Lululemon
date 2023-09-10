@@ -1,0 +1,161 @@
+My name: Jessica Chen
+The destination domain: shop.lululemon.com
+How you use the website you’re going to trace: 
+It is an athletic apparel shopping site. I browse their products, select their products, and pay after I finished shopping.
+
+1. 67.245.104.1
+Country: United States of America
+Region: New York
+City: Manhattan
+Zip: 10001
+Latitude: 40.78343
+Longitude: -73.96625
+Time Zone: America/New_York
+Address: Central Park West Historic District, New York, NY 10024
+Notes: 
+        - 20+ gym around this area in walking/short commute distance
+        - Central Park West, between 61st and 97th Streets, on the Upper West Side 
+        of Manhattan in New York City, United States.
+        - The buildings date from the late 19th century to the early 1940s and exhibit 
+        a variety of architectural styles. The majority of the district's buildings are 
+        of neo-Italian Renaissance style, but Art Deco is a popular theme as well.
+        - Luxury hotels, luxury residence, private schools, churches, community gathering space
+
+
+
+2. 24.29.119.146
+Country: United States of America
+Region: New York
+City: Manhattan
+Zip: 10116
+Latitude: 40.713192
+Longitude: -74.006065
+Time Zone: America/New_York
+Address: City Hall Pk Path, New York, NY 10007
+Notes: 
+        - 20+ gym around this area in walking/short commute distance
+        - Surrounded by centuries-old majestic government buildings that date back to 1812, 
+        this park provides a much-needed green spot in a bustling downtown area. 
+        At lunchtime each afternoon it springs to life when those working in the neighborhood come 
+        to relax, eat, and soak in sunshine on its grassy lawns.
+        - For people-watching enthusiasts, the park provides a crosscut of New York life as 
+        government workers, jury members, and newlyweds visiting City Hall for their marriage licenses 
+        stroll through its grounds.
+        - Its bike path, which leads directly to the Brooklyn Bridge, offers a different type of scenic 
+        view to cyclists pedaling through picturesque panoramas of some of the City's iconic public architecture.
+
+
+
+3. 68.173.199.162
+Country: United States of America
+Region: Woodside
+City: Manhattan
+Zip: 11377
+Latitude: 40.74526
+Longitude: -73.9048
+Time Zone: America/New_York
+Address: 6013-5877 Woodside Ave, Woodside, NY 11377
+Notes: 
+        - 10+ gym around this area in walking/short commute distance
+        - Woodside is a residential and commercial neighborhood in the western portion of the borough of Queens in New York City. 
+        It is bordered on the south by Maspeth, on the north by Astoria, on the west by Sunnyside, and on the east by Elmhurst, 
+        Jackson Heights, and East Elmhurst. Some areas are widely residential and very quiet, while other parts, especially the
+        ones around Roosevelt Avenue, are busier.
+        - In the 1860s, Woodside became the largest Irish American community in Queens, being approximately 80% Irish by the 1930s 
+        and maintaining a strong Irish culture today. In the early 1990s, many Asian American families include a large Filipino community 
+        moved into the area, and as a result the current population is 30% Asian American. South Asians and Latinos have also moved to Woodside in recent years.
+        - The neighborhood nonetheless continued to be seen as an attractive place to live—characterized by "wide avenues, leafy streets and a mix of private homes, 
+        small apartment buildings and the occasional towering co-op."
+        - The racial makeup of the neighborhood was 22.5% (10,140) White, 1.3% (592) African American, 0.2% (76) Native American, 39.9% (17,990) Asian, 
+        0.0% (5) Pacific Islander, 0.5% (221) from other races, and 2.2% (975) from two or more races. Hispanic or Latino of any race were 33.5% (15,100) of the population.
+
+
+
+4. 66.109.6.26
+Country: United States of America
+Region: Texas
+City: Dallas
+Zip: 75201
+Latitude: 32.78306
+Longitude: -96.8065
+Time Zone: America/Chicago
+Address: 1999-1901 N Lamar St, Dallas, TX 75202
+Notes: 
+        - 20+ gym around this area in walking/short commute distance
+        - Downtown Dallas is the central business district (CBD) of Dallas, Texas, United States, located in the geographic center of the city. 
+        It is the second-largest business district in the state of Texas. 
+        - There are 11,906 residents in Downtown Dallas, with a median age of 32. Of this, 54.15% are males and 45.85% are females. US-born citizens make up 85.41% of the resident pool in Downtown Dallas, 
+        while non-US-born citizens account for 9.05%. Additionally, 5.54% of the population is represented by non-citizens.
+        - As of February 2023, the average apartment rent in Dallas, TX is $1,368 for a studio, $1,471 for one bedroom, $2,048 for two bedrooms, and $2,679 for three bedrooms. 
+
+
+
+5. 66.109.9.171
+Country: United States of America
+Region: Illinois	
+City: Naperville
+Zip: 60540	
+Latitude: 41.770999
+Longitude: -88.153042
+Time Zone: America/Chicago
+Address: 400-390 S Eagle St, Naperville, IL 60540
+Notes: 
+        - 15+ gym around this area in walking/short commute distance
+        - Downtown Naperville is 30 minutes from Chicago, pedestrian friendly, historic downtown Naperville has hundreds of stores and spas, businesses and dining opportunities.
+        - Naperville earns the prestigious title of the wealthiest suburb in the Midwest and the eleventh richest in the US. The suburb ranks highly in the Midwest's top 10 places to live
+        - Downtown Naperville population: Total Population	7,393; Median Age 39; Citizen US Born	5,925; Citizen not US Born 758; Not Citizen 711
+
+        
+6. 66.109.10.179
+Country: United States of America
+Region: Texas	
+City: Houston
+Zip: 77001	
+Latitude: 29.76303
+Longitude: -95.362061
+Time Zone: America/Chicago
+Address: 820 Congress St A, Houston, TX 77002
+Notes: 
+        - 20+ gym around this area in walking/short commute distance
+        - Downtown is a bustling business hub and home to major attractions like the Houston Aquarium, with touch pools and a shark tank. It also has a vibrant theater scene, 
+        with the Hobby Center for the Performing Arts presenting musicals and dance shows. Large-scale sporting events and concerts take place at the Toyota Center. 
+        Local dining includes upscale grills, casual taquerias and sushi spots.
+        - Downtown Houston population: Total Population	18,057; Male population 72.56%, Female population 27.44%; Median Age 34.6; Citizen US Born 84.11%, Citizen not US Born 5.71%, Not Citizen 10.18%;
+        White Collar 89.41%, Blue Collar 10.59%
+
+
+
+7. 24.30.200.119
+Country: United States of America
+Region: New York
+City: Manhattan
+Zip: 10116
+Latitude: 40.713192
+Longitude: -74.006065
+Time Zone: America/New_York
+Address: City Hall Pk Path, New York, NY 10007
+Notes: 
+        - 20+ gym around this area in walking/short commute distance
+
+
+
+8. 24.30.200.219
+Country: United States of America
+Region: New York
+City: Manhattan
+Zip: 10116
+Latitude: 40.713192
+Longitude: -74.006065
+Time Zone: America/New_York
+Address: City Hall Pk Path, New York, NY 10007
+Notes: 
+        - 20+ gym around this area in walking/short commute distance
+
+
+
+
+Source:
+Wikipedia
+https://www.geolocation.com/
+Google Maps
+https://www.point2homes.com/US
