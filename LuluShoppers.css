@@ -1,0 +1,157 @@
+<!--.flexbox-containers{
+    display: flex;   
+    justify-content: center;
+    flex-direction: column; 
+}-->
+
+.flexbox-item{
+    margin-top: 0%;
+    width: 100%;
+    border: none;
+    
+}
+
+
+.flexbox-item-1{
+   
+    margin-top: 0%;
+    height: 34px;
+    flex-shrink: 0;
+    flex-grow: 1;
+    background-color: #c8c8c8;
+}
+.banner{
+    text-align: center;
+}
+
+
+
+.flexbox-item-2{
+    
+    height: 40px;
+    margin-top: 0%;
+    margin-right: 10px;
+    background-color: #9f7373;
+}
+.topNavigation{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: space-between;
+}
+.StoreLocator{
+    text-align: center;
+}
+.WishList{
+    text-align: center;
+}
+.GiftCard{
+    text-align: center;
+}
+.GetHelp{
+    text-align: center;
+}
+.USA{
+    text-align: center;
+}
+
+
+
+.flexbox-item-3{
+    height: 50px;
+    margin-top: 0%;
+    margin-right: 10px;
+    background-color: #595f32;
+}
+.desktopNavigation{
+    display: flex;
+    margin-right: 10px;
+    justify-content: space-between; 
+}
+.logo {
+    width: 10%;
+    height: 10%;
+    z-index: 1;
+}
+
+
+.flexbox-item-4{
+    height: 200px;
+    margin-top: 0%;
+    margin-right: 10px;
+    
+}
+.category{
+    display: flex;
+    justify-content: space-between;
+}
+.region{
+    text-align: left;
+    width: 100px;
+    background-color: #e2d484;
+}
+
+.list{
+    text-align: center;
+    flex-grow: 2;
+    background-color: #908025;
+}
+.row{
+    justify-content: start;
+    margin-left: 10px;
+    height: 20px;
+    margin-top: 0%;
+}
+
+
+.tile-tiem{
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.tile-1{ 
+    text-align: left;
+    background-color: #c8c8c8;
+    width: 400px;
+}
+.tile-2{ 
+    text-align: left;
+    background-color: #937575;
+    width: 400px;
+}
+.tile-3{ 
+    text-align: left;
+    background-color: #834c4c;
+    width: 400px;
+}
+.tile-4{ 
+    text-align: left;
+    background-color: #de8818;
+    width: 400px;
+}
+.tile-5{ 
+    text-align: left;
+    background-color: #725f44;
+    width: 400px;
+}
+.tile-6{ 
+    text-align: left;
+    background-color: #9e8dbc;
+    width: 400px;
+}
+.tile-7{ 
+    text-align: left;
+    background-color: #8dabbc;
+    width: 400px;
+}
+.tile-8{ 
+    text-align: left;
+    background-color: #8dbca7;
+    width: 400px;
+}
+
+img{
+    z-index: 1;
+}

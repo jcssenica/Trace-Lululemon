@@ -48,8 +48,8 @@ Notes:
 
 3. 68.173.199.162
 Country: United States of America
-Region: Woodside
-City: Manhattan
+Region: New York
+City: Woodside
 Zip: 11377
 Latitude: 40.74526
 Longitude: -73.9048
