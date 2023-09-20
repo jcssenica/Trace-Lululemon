@@ -2,12 +2,14 @@
     display: flex;   
     justify-content: center;
     flex-direction: column; 
+    flex-wrap: wrap;
 }-->
 
 .flexbox-item{
     margin-top: 0%;
     width: 100%;
     border: none;
+    flex-wrap: wrap;
     
 }
 
@@ -18,7 +20,7 @@
     height: 34px;
     flex-shrink: 0;
     flex-grow: 1;
-    background-color: #c8c8c8;
+    background-color: #eeeeee;
 }
 .banner{
     text-align: center;
@@ -30,14 +32,16 @@
     
     height: 40px;
     margin-top: 0%;
-    margin-right: 10px;
-    background-color: #9f7373;
+    margin-right: 30px;
+    background-color: #ffffff;
 }
 .topNavigation{
     display: flex;
     margin-left: 10px;
     margin-right: 10px;
     justify-content: space-between;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 .StoreLocator{
     text-align: center;
@@ -61,12 +65,14 @@
     height: 50px;
     margin-top: 0%;
     margin-right: 10px;
-    background-color: #595f32;
+    background-color: #dfdfdf;
 }
 .desktopNavigation{
     display: flex;
     margin-right: 10px;
     justify-content: space-between; 
+    font-weight: 500;
+    font-size: medium;
 }
 .logo {
     width: 10%;
@@ -79,22 +85,27 @@
     height: 200px;
     margin-top: 0%;
     margin-right: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
 .category{
     display: flex;
     justify-content: space-between;
+    
+}
+.text-category{
+    font-weight: 200px;
 }
 .region{
     text-align: left;
     width: 100px;
-    background-color: #e2d484;
+    background-color: #dfdfdf;
 }
 
 .list{
     text-align: center;
     flex-grow: 2;
-    background-color: #908025;
+    background-color: #ffffff;
 }
 .row{
     justify-content: start;
@@ -108,6 +119,9 @@
     display: flex; 
     flex-direction: row;
     justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
     
 }
 
@@ -118,37 +132,37 @@
 }
 .tile-2{ 
     text-align: left;
-    background-color: #937575;
+    background-color: #c8c8c8;
     width: 400px;
 }
 .tile-3{ 
     text-align: left;
-    background-color: #834c4c;
+    background-color: #c8c8c8;
     width: 400px;
 }
 .tile-4{ 
     text-align: left;
-    background-color: #de8818;
+    background-color: #c8c8c8;
     width: 400px;
 }
 .tile-5{ 
     text-align: left;
-    background-color: #725f44;
+    background-color: #c8c8c8;
     width: 400px;
 }
 .tile-6{ 
     text-align: left;
-    background-color: #9e8dbc;
+    background-color: #c8c8c8;
     width: 400px;
 }
 .tile-7{ 
     text-align: left;
-    background-color: #8dabbc;
+    background-color: #c8c8c8;
     width: 400px;
 }
 .tile-8{ 
     text-align: left;
-    background-color: #8dbca7;
+    background-color: #c8c8c8;
     width: 400px;
 }
 
